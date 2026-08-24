@@ -1,0 +1,30 @@
+[project]
+name = "week-5-duallens-analytics-trustworthy-ai-investment-research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "chromadb>=0.5.0",
+    "dspy==3.2.1",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "langchain>=1.0,<2.0",
+    "langchain-chroma>=0.2.0",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.0,<2.0",
+    "langchain-openai>=0.3.0",
+    "langchain-text-splitters>=0.3.0",
+    "matplotlib>=3.11.1",
+    "openai>=1.40.0",
+    "pandas>=3.0.5",
+    "pypdf>=4.0.0",
+    "scikit-learn>=1.4",
+    "tiktoken>=0.7.0",
+    "yfinance>=0.2.40",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+]
