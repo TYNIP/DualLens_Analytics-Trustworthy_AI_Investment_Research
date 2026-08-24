@@ -1,0 +1,4 @@
+{
+  "API_KEY": "academic-notebook-key-goes-here",
+  "OPENAI_API_BASE": "https://academic-provider.example/v1"
+}

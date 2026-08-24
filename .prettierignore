@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+.venv
+notebooks/academic/*.ipynb
+notebooks/academic/*.html
+data/private
+uv.lock
