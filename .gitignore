@@ -22,7 +22,6 @@ __pycache__/
 !.vscode/extensions.json
 
 data/private/
-notebooks/academic/
 duallens-workspace-*.json
 
 docs/

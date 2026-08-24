@@ -1,0 +1,18 @@
+CONFIDENCE: 79.0/100 — ⚠️ FLAGGED
+
+1. **GOOGL**  
+Google's strong investment in AI, particularly through Project Astra, positions it as a leader in AI research and product integration. With a market cap of $4,217.13 billion and a P/E ratio of 17.30, Google is not only financially robust but also focused on enhancing user engagement and creating new revenue streams through its AI initiatives.
+
+2. **MSFT**  
+Microsoft's commitment to AI innovation is evident through its Azure AI Foundry Labs, which involves significant investments estimated in the hundreds of millions annually. With a market cap of $3,588.32 billion and a P/E ratio of 26.95, Microsoft is strategically embedding AI across its products, enhancing operational efficiency and maintaining a competitive edge in the cloud market.
+
+3. **NVDA**  
+NVIDIA's G-Assist project demonstrates its focus on integrating AI capabilities across its product portfolio, which aligns with its strategic goal of making AI a core capability. The company has a market cap of $5,200.73 billion and a P/E ratio of 32.88, indicating strong growth potential, although it faces challenges in user experience and stability.
+
+4. **AMZN**  
+Amazon's development of the Olympus AI model and its comprehensive Amazon Bedrock platform show its ambition in the generative AI space. However, with a market cap of $2,789.66 billion and a P/E ratio of 20.79, it faces stiff competition and challenges in data privacy, which may hinder its growth compared to its peers.
+
+5. **IBM**  
+IBM's focus on AI security through its Guardium initiative indicates a strategic priority, but its market cap of $222.04 billion and P/E ratio of 20.91 suggest it is less competitive in the broader AI landscape. The evidence of its AI initiatives is comparatively thin, which may limit its attractiveness for investment.
+
+Caveat: IBM's evidence is comparatively thin.
